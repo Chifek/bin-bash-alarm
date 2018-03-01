@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Alarm
+Terminal=true
+Icon=/путь/до/картинки/которая/нам/нравится.png
+Exec=/home/ruslan/wakeupdude/wake.sh
+Type=Application
+Name[en_US]=alarm
+
